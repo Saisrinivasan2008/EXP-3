@@ -40,11 +40,18 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="882" height="495" alt="Screenshot 2026-10-23 220701" src="https://github.com/user-attachments/assets/f15cd884-0b91-49b3-b2b2-7e2a415c9a42" />
+
 Tabulation:1
-	
+	<img width="1290" height="629" alt="image" src="https://github.com/user-attachments/assets/df3bffb2-da9b-4591-8b49-5bf1e77e52de" />
+
 Cross connection: CIRCUIT DIAGRAM:
+<img width="1281" height="691" alt="Screenshot 2026-10-23 215117" src="https://github.com/user-attachments/assets/422f857f-acc9-4911-b06a-047a5cf5014d" />
+
 
 Tabulation:2
+<img width="1600" height="681" alt="image" src="https://github.com/user-attachments/assets/8453e58f-8c37-4290-9470-91f2d9a5608c" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
